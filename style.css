@@ -178,16 +178,18 @@ section {
 }
 
 .section__text p {
-  font-weight: 600;
+  margin-bottom: 1rem;
+  font-weight: 500;
 }
 
-.section__text_p1 {
+.section__text__p1 {
   text-align: center;
 }
 
 .section__text_p2 {
+  text-align: center;
   font-size: 1.75rem;
-  margin-bottom: 1rem;
+  margin-top: 1rem;
 }
 
 .title {
