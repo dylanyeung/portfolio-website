@@ -184,6 +184,7 @@ section {
 
 .section__text__p1 {
   text-align: center;
+  margin-bottom: 1rem;
 }
 
 .section__text_p2 {
@@ -195,6 +196,7 @@ section {
 .title {
   font-size: 3rem;
   text-align: center;
+  margin-bottom: 3rem;
 }
 
 #socials-container {
@@ -267,8 +269,8 @@ section {
 
 .about-containers {
   gap: 2rem;
-  margin-top: 2rem;
-  margin-bottom: 2rem;
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
 }
 
 .about-details-container {
@@ -292,10 +294,10 @@ section {
 }
 
 .details-container {
-  padding: 1.5rem;
+  padding: 3rem;
   flex: 1;
   background: white;
-  border-radius: 2rem;
+  border-radius: 1.5rem;
   border: rgb(53, 53, 53) 0.1rem solid;
   border-color: rgb(163, 163, 163);
   text-align: center;
@@ -303,11 +305,55 @@ section {
 
 .section-container {
   gap: 4rem;
-  height: 80%;
+  height: 70%;
 }
 
 .section__pic-container{
   height: 400px;
   width: 400px;
   margin: auto 0;
+}
+
+/* EXPERIENCE SECTION */
+
+#experience {
+  position: relative;
+}
+
+.experience-sub-title {
+  color: rgb(85, 85, 85);
+  font-weight: 600;
+  font-size: 1.75rem;
+  margin-bottom: 3rem;
+}
+
+.experience-details-container{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.article-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3.5rem;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
+article {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  width: 10rem;
+}
+
+article .icon {
+  flex-shrink: 0;
+  cursor: default;
+}
+
+article h3, article p {
+  text-align: left;
+  margin: 0;
 }
