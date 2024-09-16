@@ -89,4 +89,4 @@ For any inquiries or professional connections, please reach out through:
 - **GitHub:** [Github.com/dylanyeung](https://github.com/dylanyeung)
 
 ## Conclusion
-This portfolio website implements modern web development practices using HTML and CSS to create a well-crafted and visually appealing web experience. JavaScript is employed to enhance interactivity and user experience. Designed to provide an engaging and functional user experience, it integrates contemporary design principles and interactive features. The site’s structure and functionality offer a clear demonstration of proficiency in creating responsive and dynamic web interfaces, showcasing the ability to build well-crafted, user-centric web applications.
+This portfolio website showcases modern web development practices with a focus on HTML and CSS for creating a visually appealing and well-structured web experience. JavaScript is used to enhance interactivity and functionality. The design integrates contemporary principles to deliver a dynamic, engaging user experience. Overall, the site demonstrates proficiency in developing responsive and user-centric web applications.
