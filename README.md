@@ -89,4 +89,4 @@ For any inquiries or professional connections, please reach out through:
 - **GitHub:** [Your GitHub Profile](https://github.com/dylanyeung)
 
 ## Conclusion
-This portfolio website is designed to effectively showcase my web development abilities, utilizing a range of modern technologies and best practices. It offers a detailed look at my skills, experience, and projects, serving as a professional tool for connecting with potential employers and collaborators.
+This portfolio website implements modern web development practices using HTML, CSS, and JavaScript. Designed to provide an engaging and functional user experience, it integrates contemporary design principles and interactive features. The site’s structure and functionality offer a clear demonstration of proficiency in creating responsive and dynamic web interfaces, showcasing the ability to build well-crafted, user-centric web applications.
