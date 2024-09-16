@@ -73,7 +73,7 @@ To view this project locally:
     ```bash
     cd website-portfolio
     ```
-3. Open `index.html` in your web browser to explore the site.
+3. Use a local development server or live server extension to open `index.html` in your browser. This ensures that all website functionality, including dynamic features, operates correctly.
 
 ## File Structure
 - `index.html` - The main HTML structure for the portfolio.
@@ -84,9 +84,9 @@ To view this project locally:
 
 ## Contact Information
 For any inquiries or professional connections, please reach out through:
-- **Email:** [your-email@example.com](mailto:dylanyeung.dev@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/dylanyeung)
-- **GitHub:** [Your GitHub Profile](https://github.com/dylanyeung)
+- **Email:** [dylanyeung.dev@gmail.com](mailto:dylanyeung.dev@gmail.com)
+- **LinkedIn:** [LinkedIn.com/in/dylanyeung](https://www.linkedin.com/in/dylanyeung)
+- **GitHub:** [Github.com/dylanyeung](https://github.com/dylanyeung)
 
 ## Conclusion
 This portfolio website implements modern web development practices using HTML, CSS, and JavaScript. Designed to provide an engaging and functional user experience, it integrates contemporary design principles and interactive features. The site’s structure and functionality offer a clear demonstration of proficiency in creating responsive and dynamic web interfaces, showcasing the ability to build well-crafted, user-centric web applications.
