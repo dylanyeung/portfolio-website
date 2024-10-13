@@ -1,6 +1,6 @@
 # Portfolio Website
 
-This project serves as a comprehensive demonstration of my web development skills and expertise. Created with HTML, CSS, and JavaScript, this portfolio website is designed to provide an engaging and responsive experience, highlighting key web development techniques and best practices.
+Created with HTML, CSS, and JavaScript, this portfolio website creates a visually appealing and well-structured web experience, highlighting key web development techniques and best practices. JavaScript is used to enhance interactivity and functionality. The design integrates contemporary principles to deliver a dynamic, engaging user experience.
 
 ## Table of Contents
 - [Technology Stack](#technology-stack)
@@ -9,7 +9,6 @@ This project serves as a comprehensive demonstration of my web development skill
 - [Installation Guide](#installation-guide)
 - [File Structure](#file-structure)
 - [Contact Information](#contact-information)
-- [Conclusion](#conclusion)
 
 ## Technology Stack
 - **HTML5:** Provides the fundamental structure and content of the webpage.
@@ -87,6 +86,3 @@ For any inquiries or professional connections, please reach out through:
 - **Email:** [dylanyeung.dev@gmail.com](mailto:dylanyeung.dev@gmail.com)
 - **LinkedIn:** [LinkedIn.com/in/dylanyeung](https://www.linkedin.com/in/dylanyeung)
 - **GitHub:** [Github.com/dylanyeung](https://github.com/dylanyeung)
-
-## Conclusion
-This portfolio website showcases modern web development practices with a focus on HTML and CSS for creating a visually appealing and well-structured web experience. JavaScript is used to enhance interactivity and functionality. The design integrates contemporary principles to deliver a dynamic, engaging user experience. Overall, the site demonstrates proficiency in developing responsive and user-centric web applications.
